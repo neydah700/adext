@@ -1,7 +1,7 @@
 # adext
 
-![PyPI - Version](https://img.shields.io/pypi/v/adext)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/ajschmidt8/adext/merge.yaml?label=builds&link=https%3A%2F%2Fgithub.com%2Fajschmidt8%2Fadext%2Factions%2Fworkflows%2Fmerge.yaml)
+[![PyPI - Version](https://img.shields.io/pypi/v/adext)](https://pypi.org/project/adext/)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/ajschmidt8/adext/merge.yaml?label=tests)](https://github.com/ajschmidt8/adext/actions/workflows/merge.yaml)
 
 `adext` is a small package that extends [alarmdecoder](https://github.com/nutechsoftware/alarmdecoder/) to include some additional methods for [Home Assistant](https://github.com/home-assistant/core).
 
